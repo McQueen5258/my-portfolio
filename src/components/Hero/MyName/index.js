@@ -30,7 +30,7 @@ export default function MyName() {
   }, []);
   return (
     <h1 className="title">
-      Hello I'm <span className="name" ref={el} />
+      Hello I&#39;m <span className="name" ref={el} />
     </h1>
   );
 }

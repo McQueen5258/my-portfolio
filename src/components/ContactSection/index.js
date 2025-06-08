@@ -6,7 +6,7 @@ export default function ContactSection() {
     <section className="contact-section" id="contact">
       <h2 className="contact-title">Get in Touch</h2>
       <p className="contact-text">
-        I'd love to hear from you — whether it's about a project, job
+        I &#39;d love to hear from you — whether it &#39;s about a project, job
         opportunity, or just to say hi!
       </p>
       <div className="contact-links">
