@@ -1,0 +1,22 @@
+.title {
+  font-size: 2.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+@media screen and (max-width: 500px) {
+  .title {
+    font-size: 18px;
+    margin-top: 0.5rem;
+    margin-bottom: 0.2rem;
+}
+}
+
+.name {
+  color: #397bb8;
+}
+
+.typed-cursor {
+  color: #397bb8; /* 替换成你想要的颜色 */
+  font-weight: bold;
+}

@@ -1,0 +1,81 @@
+.timeline-section {
+  background-color: #a4c8e4;
+  color: #1c1c1c;
+  padding: 4rem 1.5rem;
+}
+
+.timeline-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 3rem;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #1c1c1c;
+}
+
+.timeline-container {
+  position: relative;
+  margin: 0 auto;
+  max-width: 900px;
+  padding-left: 2rem;
+  border-left: 3px solid #94a3b8;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 2.5rem;
+  padding-left: 2rem;
+}
+
+.timeline-icon {
+  position: absolute;
+  left: -38px;
+  top: 0;
+  width: 48px;
+  height: 48px;
+  background-color: white;
+  border-radius: 50%;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.timeline-icon img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.timeline-content h3 {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+  color: #1c1c1c;
+}
+
+.timeline-content .company {
+  font-weight: 500;
+  color: #397bb8;
+  margin-bottom: 0.25rem;
+}
+
+.timeline-content .time {
+  font-size: 0.9rem;
+  color: #4b5563;
+  margin-bottom: 1rem;
+}
+
+.timeline-content ul {
+  padding-left: 1rem;
+  list-style: disc;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.timeline-content li {
+  margin-bottom: 0.5rem;
+  color: #333;
+}

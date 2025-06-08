@@ -1,0 +1,42 @@
+.contact-section {
+  background-color: #d4e7f8; /* 比 Timeline 更浅，保持层次 */
+  padding: 4rem 1.5rem;
+  text-align: center;
+}
+
+.contact-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #1c1c1c;
+  margin-bottom: 1rem;
+}
+
+.contact-text {
+  font-size: 1.1rem;
+  color: #4b5563;
+  margin-bottom: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-links {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.contact-links a {
+  background-color: #397bb8;
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 9999px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.contact-links a:hover {
+  background-color: #2c5d90;
+}

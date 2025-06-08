@@ -1,0 +1,42 @@
+.experience-section,
+.education-section {
+  padding: 4rem 1.5rem;
+  background-color: #f0f4f8;
+  text-align: center;
+}
+
+.experience-section h2,
+.education-section h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  color: #1c1c1c;
+}
+
+.experience-grid {
+  max-width: 800px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+.experience-card {
+  background-color: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+  text-align: left;
+}
+
+.experience-card h3 {
+  font-size: 1.25rem;
+  color: #397bb8;
+  margin-bottom: 0.5rem;
+}
+
+.experience-card .time {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.75rem;
+}
