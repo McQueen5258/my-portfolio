@@ -19,7 +19,7 @@ export default function ContactSection() {
           🐙 GitHub
         </a>
         <a
-          href="www.linkedin.com/in/eric-uwizeye-a97218366"
+          href="https://www.linkedin.com/in/eric-uwizeye-a97218366"
           target="_blank"
           rel="noopener noreferrer"
         >
