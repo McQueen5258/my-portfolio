@@ -12,6 +12,13 @@ import ProjectCard from "../ProjectCard";
 
 const projects = [
   {
+    title: "StoryStream",
+    description:
+      "A multilingual digital garden for thoughts, stories, and code.",
+    image: "/images/workImage/storyStream.png",
+    link: "https://eric-storystream.vercel.app/",
+  },
+  {
     title: "Message Board",
     description:
       "Leave and view messages on a simple board built with React and Node.js.",
