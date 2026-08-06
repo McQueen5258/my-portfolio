@@ -19,6 +19,13 @@ const projects = [
     link: "https://eric-storystream.vercel.app/",
   },
   {
+    title: "Steward",
+    description:
+      "A jar-based personal finance planner that gives every dollar a purpose.",
+    image: "/images/workImage/steward.png",
+    link: "https://steward-stage.vercel.app/",
+  },
+  {
     title: "Message Board",
     description:
       "Leave and view messages on a simple board built with React and Node.js.",
